@@ -1,0 +1,6 @@
+{
+  "name": "Embee Software Blog & Content Studio",
+  "description": "Multi-channel content creation and blog generation platform for Embee Software website, LinkedIn posts, guest posts, and third-party publications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
